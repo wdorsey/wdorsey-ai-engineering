@@ -2,6 +2,11 @@
 
 This repository documents all my work towards becoming an AI Engineer.
 
+- [Currently Working On](#currently-working-on)
+- [Completed Work](#completed-work)
+- [Resources](#resources)
+- [Study Topics, Projects, and Resources](#Study-Topics-Projects-and-Resources)
+
 ## Currently Working On
 
 - Programming/Data Analysis
@@ -19,7 +24,7 @@ This repository documents all my work towards becoming an AI Engineer.
 	- Andrej Karpathy videos
 		- [micrograd exercise](https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing#scrollTo=3Jx9fCXl5xHd)
 
-## Completed Curriculum
+## Completed Work
 
 - Data Analysis
 	- [Beginner/Intro Data Analysis Project](https://letslearndatascience.com/data-analysis-project-in-python-jupyter/) #Jupyter #Python #Pandas #Matplotlib
@@ -41,13 +46,7 @@ This repository documents all my work towards becoming an AI Engineer.
 
 (bullet-points with exclamation points mean they are a highly-recommended resource)
 
-Make sure what you working onis productive, 80/20 principle
-
-### How to become an expert in anything by Andrej Karpathy
-
-1. Iteratively take on concrete projects and accomplish them depth wise, learning "on demand"
-2. Teach/summarize everything you learn in your own words
-3. Only compare yourself to younger you, never to others
+Make sure what you working on is productive, 80/20 principle
 
 ### Programming
 
