@@ -27,8 +27,8 @@ This repository documents all my work towards becoming an AI Engineer.
 ## Completed Work
 
 - Data Analysis
-	- [Beginner/Intro Data Analysis Project](https://letslearndatascience.com/data-analysis-project-in-python-jupyter/) #Jupyter #Python #Pandas #Matplotlib
-		- [Completed Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial)
+	- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
+		- [Tutorial Here](https://letslearndatascience.com/data-analysis-project-in-python-jupyter/)
 - Andrej Karpathy Videos
 	- General
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
