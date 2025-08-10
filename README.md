@@ -23,12 +23,13 @@ This repository documents all my work towards becoming an AI Engineer.
 
 - Data Analysis
 	- [Beginner/Intro Data Analysis Project](https://letslearndatascience.com/data-analysis-project-in-python-jupyter/) #Jupyter #Python #Pandas #Matplotlib
+		- [Completed Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial)
 - Andrej Karpathy Videos
 	- General
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 	-  Neural Networks: Zero to Hero
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
-			-  [Follow-up Exercise](https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing#scrollTo=3Jx9fCXl5xHd) #Jupyter #Python #GoogleColab
+			-  [Follow-up Exercise](https://colab.research.google.com/drive/1jvQ3w_Lr4QqCLh5xP5V3nBJaljw5LU52#scrollTo=BUqsGb5o_h2P) #Jupyter #Python #GoogleColab
 
 ## Resources
 
