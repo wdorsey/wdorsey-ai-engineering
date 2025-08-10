@@ -33,7 +33,7 @@ This repository documents all my work towards becoming an AI Engineer.
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 	-  Neural Networks: Zero to Hero
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
-			-  [Follow-up Exercise](https://colab.research.google.com/drive/1jvQ3w_Lr4QqCLh5xP5V3nBJaljw5LU52#scrollTo=BUqsGb5o_h2P) #Jupyter #Python #GoogleColab
+			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/machine-learning/andrej-karpathy-micrograd-exercise) #Jupyter #Python #GoogleColab
 
 ## Resources
 
