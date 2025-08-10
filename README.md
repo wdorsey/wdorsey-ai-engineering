@@ -1,6 +1,6 @@
 # AI Engineering
 
-This repository documents all my work towards becoming an AI Engineer.
+Repository for all my studying and work in AI engineering.
 
 - [Currently Working On](#currently-working-on)
 - [Completed Work](#completed-work)
