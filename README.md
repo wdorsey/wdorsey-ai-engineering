@@ -8,8 +8,8 @@ This repository documents all my work towards becoming an AI Engineer.
 	- Learn Python
 		- Tutorials: Python, Jupyter Notebooks, Pandas
 		- Neetcode
-		- Start working on my own data analysis project
-			- possibly use Kaggle
+	- Start working on my own data analysis project
+		- probably find a Kaggle project to work on
 - Math
 	- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
 - Machine Learning
