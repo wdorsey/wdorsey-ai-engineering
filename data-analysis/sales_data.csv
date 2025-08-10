@@ -1,0 +1,9 @@
+Month,Region,Product,Units_Sold,Revenue,Profit
+Jan,North,Widget A,120,2400,500
+Jan,South,Widget B,150,3000,
+Feb,North,Widget A,140,,600
+Feb,South,Widget B,170,3400,750
+Mar,North,,160,3200,800
+Mar,South,Widget B,180,3600,
+Apr,,Widget A,130,2600,550
+Apr,South,Widget B,,3200,800
