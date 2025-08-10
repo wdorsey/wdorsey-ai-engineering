@@ -50,9 +50,9 @@ Make sure what you working on is productive, 80/20 principle
 ### Programming
 
 - Python - main language of the Data science/AI ecosystem
-	- Jupyter Notebooks - install application, do quick intro tutorial or w/e
-	- Pandas - data analysis library, do tutorial
-	- NumPy, Pandas, scikit-learn, PyTorch, TensorFlow
+	- Jupyter Lab/Notebooks (Google Colab)
+	- NumPy, Pandas
+	- scikit-learn, PyTorch, TensorFlow
 	- Matplotlib, seaborn, Plotly
 - Go/Rust - backend language preferred for AI Engineering roles
 - Neetcode
@@ -60,8 +60,9 @@ Make sure what you working on is productive, 80/20 principle
 	- Python for Data Analysis by Wes McKinney
 	- Find data set to analyze. Look at Kaggle.
 	- Import data into Pandas in Jupyter Notebooks
-	- Plot variables, look at correlations
-	- Make it a professional presentation within Jupyter Notebooks, something to show
+	- Fixup data, plot variables, look at correlations
+	- Find conclusions
+	- Make it a professional presentation within Jupyter Notebooks
 
 ### Math
 
@@ -77,8 +78,8 @@ Make sure what you working on is productive, 80/20 principle
 
 - !!! Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron
 - ! Machine Learning Specialization course by Andrew Ng (coursera/Stanford/Deeplearning.ai)
-- The Hundred-Page Machine Learning Book by Andriy Burkov
-- The Elements of Statistical Learning by Hastie et al
+- ! The Hundred-Page Machine Learning Book by Andriy Burkov
+- ! The Elements of Statistical Learning by Hastie et al
 	- An Introduction to Statistical Learning by Hastie et al
 	- video series Statistical Learning on Stanford Online channel
 - Zero to Mastery course: Complete A.I. Machine Learning and Data Science
@@ -86,7 +87,7 @@ Make sure what you working on is productive, 80/20 principle
 	- Implement from scratch in Python
 	- Implement using scikit-learn using a toy dataset
 	- Use both your own and the scikit-learn implementation on a real dataset (from Data Analysis Project)
-	- kaggle datasets for testing/validation 
+	- Can also use Kaggle datasets for testing/validation 
 - Algorithms
 	- Linear, logistic and polynomial regression
 	- Decision trees, random forests and gradient-boosted trees
