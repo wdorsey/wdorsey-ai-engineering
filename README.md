@@ -22,7 +22,6 @@ This repository documents all my work towards becoming an AI Engineer.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- Andrej Karpathy videos
-		- [micrograd exercise](https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing#scrollTo=3Jx9fCXl5xHd)
 
 ## Completed Work
 
