@@ -26,7 +26,7 @@ Repository for all my studying and work in AI engineering.
 		- Long-term project. Will start after some more studying and learning of the basics.
 		- Train an AI to take an image as input and generate a factorio blueprint that recreates the image using buildable Factorio entities.
 			- Like ascii art, but using Factorio buildables as the "characters".
-		- I think the AI part will be rather simple and generic, all the Factorio stuff will be input/output adapters I'll have to write.
+		- I think the AI part will be rather generalized, all the Factorio stuff will be input/output adapters I'll have to write.
 			- Input: Tokenized Factorio assets.
 				- Will need to write code to compile the assets and generate the final tokens. 
 				- Ideally it could optionally include entities from mods.
