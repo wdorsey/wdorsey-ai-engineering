@@ -9,12 +9,9 @@ Repository for all my studying and work in AI engineering.
 
 ## Currently Working On
 
-- Programming/Data Analysis
-	- Learn Python
-		- Tutorials: Python, Jupyter Notebooks, Pandas
-		- Neetcode
-	- Start working on my own data analysis project
-		- probably find a Kaggle project to work on
+- Programming
+	- Learn Python, Jupyter, Pandas
+		- [Pandas Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
 - Math
 	- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
 - Machine Learning
@@ -22,6 +19,25 @@ Repository for all my studying and work in AI engineering.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- Andrej Karpathy videos
+- Projects
+	- Data Analysis Project - TBD
+		- Jupyter, Pandas, etc. Probably find something interesting on Kaggle to work on.
+	- Image-to-Factorio-Blueprint AI
+		- Long-term project. Will start after some more studying and learning of the basics.
+		- Train an AI to take an image as input and generate a factorio blueprint that recreates the image using buildable Factorio entities.
+			- Like ascii art, but using Factorio buildables as the "characters".
+		- I think the AI part will be rather simple and generic, all the Factorio stuff will be input/output adapters I'll have to write.
+			- Input: Tokenized Factorio assets.
+				- Will need to write code to compile the assets and generate the final tokens. 
+				- Ideally it could optionally include entities from mods.
+				- The AI won't actually know what these tokens are, nor what the output means, so it'll likely be re-useable in other contexts.
+			- Output: Tokens w/ coordinates of where to place them in the image/blueprint.
+				- Use output to generate blueprint, automatically paste blueprint into running custom Factorio map, take screenshot.
+				- The screenshot will then feed back into the AI to train it, with the original image being the expected result
+				- The closer the screenshot is to the original image, the better the accuracy of the AI.
+		- AI and training code will be written in python. 
+			- Can probably write the code that will run the AI in a different language. Rust probably, just for practice.
+			- Maybe could write just the AI in python but write the training harness in Rust. TBD
 
 ## Completed Work
 
@@ -37,6 +53,7 @@ Repository for all my studying and work in AI engineering.
 
 ## Resources
 
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Huggingface/FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [TikTokenizer - text input tokenization](https://tiktokenizer.vercel.app/)
 - [LLM Transformer Neural Net 3D visualizer](https://bbycroft.net/llm)
@@ -55,7 +72,6 @@ Make sure what you working on is productive, 80/20 principle
 	- scikit-learn, PyTorch, TensorFlow
 	- Matplotlib, seaborn, Plotly
 - Go/Rust - backend language preferred for AI Engineering roles
-- Neetcode
 - Data Analysis Project
 	- Python for Data Analysis by Wes McKinney
 	- Find data set to analyze. Look at Kaggle.
