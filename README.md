@@ -10,6 +10,7 @@ Repository for all my studying and work in AI engineering.
 
 ## Currently Working On
 
+- [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 - Project
 	- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 - Math
