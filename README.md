@@ -21,8 +21,6 @@ Repository for all my studying and work in AI engineering.
 	- Andrej Karpathy videos
 
 ## Project Ideas
-- Data Analysis Project - TBD
-	- Jupyter, Pandas, etc. Probably find something interesting on Kaggle to work on.
 - Image-to-Factorio-Blueprint AI
 	- Long-term project. Will start after some more studying and learning of the basics.
 	- Train an AI to take an image as input and generate a factorio blueprint that recreates the image using buildable Factorio entities.
@@ -51,10 +49,10 @@ Repository for all my studying and work in AI engineering.
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
 			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/machine-learning/andrej-karpathy-micrograd-exercise) #Jupyter #Python #GoogleColab
 
-### Tutorials
+### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials)
 
-- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial) #Python #Pandas #Jupyter
-- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
+- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials/pandas-tutorial) #Python #Pandas #Jupyter
+- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Resources
 
@@ -75,7 +73,7 @@ Make sure what you working on is productive, 80/20 principle
 - Python - main language of the Data science/AI ecosystem
 	- Jupyter Lab/Notebooks (Google Colab)
 	- NumPy, Pandas
-		- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial)
+		- [Pandas Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
 	- scikit-learn, PyTorch, TensorFlow
 	- Matplotlib, seaborn, Plotly
 - Go/Rust - backend language preferred for AI Engineering roles
