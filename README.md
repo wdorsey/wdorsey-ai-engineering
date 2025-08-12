@@ -47,7 +47,7 @@ Repository for all my studying and work in AI engineering.
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 	-  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
-			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/blob/master/Andrej%20Karpathy%20Video%20Lectures/micrograd_exercises.ipynb) #Jupyter #Python #GoogleColab
+			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures#follow-up-exercise-to-the-andrej-karpathy-video-the-spelled-out-intro-to-neural-networks-and-backpropagation) #Jupyter #Python #GoogleColab
 
 ### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials)
 
