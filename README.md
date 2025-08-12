@@ -121,7 +121,7 @@ Make sure what you working on is productive, 80/20 principle
 - PyTorch - most used AI Python Library
 	- do tutorial project
 - ! DeepLearning.ai course: Deep Learning Specialization by Andrew Ng
-- Andrej Karpathy videos
+- [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
 - Hands-On Large Language Models by Jay Alammar
 - Reinforcement Learning course (youtube) by David Silver
 - Models/Concepts
