@@ -10,8 +10,8 @@ Repository for all my studying and work in AI engineering.
 
 ## Currently Working On
 
-- Data Analysis/ML Project
-	- Kaggle - TBD
+- Project
+	- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 - Math
 	- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
 - Machine Learning
