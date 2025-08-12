@@ -45,7 +45,7 @@ Repository for all my studying and work in AI engineering.
 
 - Data Analysis
 	- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
-		- [Tutorial Here](https://letslearndatascience.com/data-analysis-project-in-python-jupyter/)
+	- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial) #Python #Pandas #Jupyter
 - Andrej Karpathy Videos
 	- [General](https://www.youtube.com/playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -72,16 +72,18 @@ Make sure what you working on is productive, 80/20 principle
 - Python - main language of the Data science/AI ecosystem
 	- Jupyter Lab/Notebooks (Google Colab)
 	- NumPy, Pandas
+		- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial)
 	- scikit-learn, PyTorch, TensorFlow
 	- Matplotlib, seaborn, Plotly
 - Go/Rust - backend language preferred for AI Engineering roles
-- Data Analysis Project
+- Data Analysis
 	- Python for Data Analysis by Wes McKinney
-	- Find data set to analyze. Look at Kaggle.
-	- Import data into Pandas in Jupyter Notebooks
-	- Fixup data, plot variables, look at correlations
-	- Find conclusions
-	- Make it a professional presentation within Jupyter Notebooks
+	- Project
+		- Find data set to analyze. Look at Kaggle.
+		- Import data into Pandas in Jupyter Notebooks
+		- Fixup data, plot variables, look at correlations
+		- Find conclusions
+		- Make it a professional presentation within Jupyter Notebooks
 
 ### Math
 
