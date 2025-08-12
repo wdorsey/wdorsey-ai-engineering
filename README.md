@@ -19,6 +19,22 @@ Repository for all my studying and work in AI engineering.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- Andrej Karpathy videos
+	- 
+## Completed Work
+
+### Video Lectures
+
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
+	- [General](https://www.youtube.com/playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
+		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+	-  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
+			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures#follow-up-exercise-to-the-andrej-karpathy-video-the-spelled-out-intro-to-neural-networks-and-backpropagation) #Jupyter #Python #GoogleColab
+
+### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials)
+
+- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/pandas-tutorial) #Python #Pandas #Jupyter
+- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Project Ideas
 - Image-to-Factorio-Blueprint AI
@@ -37,22 +53,6 @@ Repository for all my studying and work in AI engineering.
 	- AI and training code will be written in python. 
 		- Can probably write the code that will run the AI in a different language. Rust probably, just for practice.
 		- Maybe could write just the AI in python but write the training harness in Rust. TBD
-
-## Completed Work
-
-### Video Lectures
-
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
-	- [General](https://www.youtube.com/playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
-		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-	-  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
-			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures#follow-up-exercise-to-the-andrej-karpathy-video-the-spelled-out-intro-to-neural-networks-and-backpropagation) #Jupyter #Python #GoogleColab
-
-### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials)
-
-- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/pandas-tutorial) #Python #Pandas #Jupyter
-- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Resources
 
