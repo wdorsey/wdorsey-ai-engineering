@@ -19,7 +19,7 @@ Repository for all my studying and work in AI engineering.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- Andrej Karpathy videos
-	- 
+
 ## Completed Work
 
 ### Video Lectures
