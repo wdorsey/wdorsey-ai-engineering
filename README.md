@@ -18,7 +18,7 @@ Repository for all my studying and work in AI engineering.
 	- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
-	- Andrej Karpathy videos
+	- [Andrej Karpathy Video Lectures](https://www.youtube.com/@AndrejKarpathy/videos)
 
 ## Completed Work
 
