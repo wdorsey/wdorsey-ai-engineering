@@ -3,8 +3,8 @@
 Repository for all my studying and work in AI engineering.
 
 - [Currently Working On](#currently-working-on)
-- [Project Ideas](#project-ideas)
 - [Completed Work](#completed-work)
+- [Project Ideas](#project-ideas)
 - [Resources](#resources)
 - [Study Topics, Projects, and Resources](#Study-Topics-Projects-and-Resources)
 
