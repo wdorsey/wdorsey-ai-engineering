@@ -10,9 +10,8 @@ Repository for all my studying and work in AI engineering.
 
 ## Currently Working On
 
-- Programming
-	- Learn Python, Jupyter, Pandas
-		- [Pandas Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
+- Data Analysis Project
+	- TBD
 - Math
 	- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
 - Machine Learning
