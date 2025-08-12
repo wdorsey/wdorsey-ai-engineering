@@ -49,10 +49,10 @@ Repository for all my studying and work in AI engineering.
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
 			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures#follow-up-exercise-to-the-andrej-karpathy-video-the-spelled-out-intro-to-neural-networks-and-backpropagation) #Jupyter #Python #GoogleColab
 
-### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials)
+### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials)
 
-- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials/pandas-tutorial) #Python #Pandas #Jupyter
-- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
+- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/pandas-tutorial) #Python #Pandas #Jupyter
+- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Resources
 
