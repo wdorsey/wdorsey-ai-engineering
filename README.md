@@ -42,15 +42,19 @@ Repository for all my studying and work in AI engineering.
 
 ## Completed Work
 
-- Data Analysis
-	- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
-	- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial) #Python #Pandas #Jupyter
-- Andrej Karpathy Videos
+### Video Lectures
+
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
 	- [General](https://www.youtube.com/playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 	-  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
 			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/machine-learning/andrej-karpathy-micrograd-exercise) #Jupyter #Python #GoogleColab
+
+### Tutorials
+
+- [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/pandas-tutorial) #Python #Pandas #Jupyter
+- [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/data-analysis/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Resources
 
@@ -76,6 +80,7 @@ Make sure what you working on is productive, 80/20 principle
 	- Matplotlib, seaborn, Plotly
 - Go/Rust - backend language preferred for AI Engineering roles
 - Data Analysis
+	- Kaggle
 	- Python for Data Analysis by Wes McKinney
 	- Project
 		- Find data set to analyze. Look at Kaggle.
@@ -119,11 +124,11 @@ Make sure what you working on is productive, 80/20 principle
 ### Deep Learning and LLMs
 
 - PyTorch - most used AI Python Library
-	- do tutorial project
 - ! DeepLearning.ai course: Deep Learning Specialization by Andrew Ng
 - [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
 - Hands-On Large Language Models by Jay Alammar
 - Reinforcement Learning course (youtube) by David Silver
+- Kaggle
 - Models/Concepts
 	- Neural Networks
 	- Convolutional Neural Networks (CNNs)
