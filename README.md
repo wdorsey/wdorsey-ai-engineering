@@ -1,6 +1,6 @@
 # AI Engineering
 
-Repository for all my studying and work in AI engineering.
+Repository for all my studying and work on AI Engineering.
 
 - [Currently Working On](#currently-working-on)
 - [Completed Work](#completed-work)
@@ -19,6 +19,7 @@ Repository for all my studying and work in AI engineering.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- [Andrej Karpathy Video Lectures](https://www.youtube.com/@AndrejKarpathy/videos)
+		- read [Let's reproduce GPT-2](https://github.com/karpathy/llm.c/discussions/677)
 
 ## Completed Work
 
@@ -30,10 +31,11 @@ Repository for all my studying and work in AI engineering.
 	-  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 		-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
 			-  [Follow-up Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures#follow-up-exercise-to-the-andrej-karpathy-video-the-spelled-out-intro-to-neural-networks-and-backpropagation) #Jupyter #Python #GoogleColab
+		-  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials)
 
-- [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
+- [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/) #Python #Pandas #Jupyter
 - [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/pandas-tutorial) #Python #Pandas #Jupyter
 - [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
@@ -58,7 +60,9 @@ Repository for all my studying and work in AI engineering.
 ## Resources
 
 - [Hands-On Machine Learning Resources and Tutorials](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb)
+- [AINews](https://news.smol.ai/)
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [LMArena](https://lmarena.ai/leaderboard/)
 - [Huggingface/FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [TikTokenizer - text input tokenization](https://tiktokenizer.vercel.app/)
 - [LLM Transformer Neural Net 3D visualizer](https://bbycroft.net/llm)
