@@ -10,7 +10,6 @@ Repository for all my studying and work in AI engineering.
 
 ## Currently Working On
 
-- [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 - Project
 	- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 - Math
@@ -34,6 +33,7 @@ Repository for all my studying and work in AI engineering.
 
 ### [Tutorials](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials)
 
+- [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 - [Pandas Tutorial](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/pandas-tutorial) #Python #Pandas #Jupyter
 - [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
@@ -57,6 +57,7 @@ Repository for all my studying and work in AI engineering.
 
 ## Resources
 
+- [Hands-On Machine Learning Resources and Tutorials](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb)
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Huggingface/FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [TikTokenizer - text input tokenization](https://tiktokenizer.vercel.app/)
@@ -101,6 +102,7 @@ Make sure what you working on is productive, 80/20 principle
 ### Machine Learning
 
 - !!! Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron
+	- [Hands-On Machine Learning Resources and Tutorials](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb)
 - ! Machine Learning Specialization course by Andrew Ng (coursera/Stanford/Deeplearning.ai)
 - ! The Hundred-Page Machine Learning Book by Andriy Burkov
 - ! The Elements of Statistical Learning by Hastie et al
