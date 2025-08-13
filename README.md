@@ -19,7 +19,6 @@ Repository for all my studying and work on AI Engineering.
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- [Andrej Karpathy Video Lectures](https://www.youtube.com/@AndrejKarpathy/videos)
-		- read [Let's reproduce GPT-2](https://github.com/karpathy/llm.c/discussions/677)
 
 ## Completed Work
 
@@ -131,6 +130,8 @@ Make sure what you working on is productive, 80/20 principle
 - PyTorch - most used AI Python Library
 - ! DeepLearning.ai course: Deep Learning Specialization by Andrew Ng
 - [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
+	- [Let's reproduce GPT-2](https://github.com/karpathy/llm.c/discussions/677)
+	- [micrograd](https://github.com/karpathy/micrograd)
 - Hands-On Large Language Models by Jay Alammar
 - Reinforcement Learning course (youtube) by David Silver
 - Kaggle
