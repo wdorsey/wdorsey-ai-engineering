@@ -13,9 +13,9 @@ Repository for all my studying and work on AI Engineering.
 - Project
 	- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 - Math
-	- Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
+	- [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Practical%20Statistics%20for%20Data%20Scientists)
 - Machine Learning
-	- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron
+	- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Hands-On%20Machine%20Learning)
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
 	- [Andrej Karpathy Video Lectures](https://www.youtube.com/@AndrejKarpathy/videos)
@@ -24,7 +24,7 @@ Repository for all my studying and work on AI Engineering.
 
 ### Video Lectures
 
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
+- [Andrej Karpathy](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures)
 	- [General](https://www.youtube.com/playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
 		-  [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 		-  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
