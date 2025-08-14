@@ -18,7 +18,7 @@ Repository for all my studying and work on AI Engineering.
 	- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Hands-On%20Machine%20Learning)
 	- The Hundred-Page Machine Learning Book by Andriy Burkov
 - Deep Learning and LLMs
-	- [Andrej Karpathy Video Lectures](https://www.youtube.com/@AndrejKarpathy/videos)
+	- [Andrej Karpathy Video Lectures](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures)
 
 ## Completed Work
 
