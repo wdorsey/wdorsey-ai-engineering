@@ -2,3 +2,5 @@
 by Aurélien Géron
 
 - The Notebook contains all my notes and work from studying.
+- [Notebook of book resources provided by the Author](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb)
+  - This is really amazing!

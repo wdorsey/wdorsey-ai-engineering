@@ -2,3 +2,4 @@
 by Peter Bruce, Andrew Bruce, & Peter Gedeck
 
 - The Notebook contains all my notes and work from studying.
+- [Book Resources](https://github.com/gedeck/practical-statistics-for-data-scientists)
