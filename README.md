@@ -10,15 +10,10 @@ Repository for all my studying and work on AI Engineering.
 
 ## Currently Working On
 
-- Project
-	- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
-- Math
-	- [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Practical%20Statistics%20for%20Data%20Scientists)
-- Machine Learning
-	- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Hands-On%20Machine%20Learning)
-	- The Hundred-Page Machine Learning Book by Andriy Burkov
-- Deep Learning and LLMs
-	- [Andrej Karpathy Video Lectures](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures)
+- [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Practical%20Statistics%20for%20Data%20Scientists)
+- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Hands-On%20Machine%20Learning)
+- The Hundred-Page Machine Learning Book by Andriy Burkov
+- [Andrej Karpathy Video Lectures](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Andrej%20Karpathy%20Video%20Lectures)
 
 ## Completed Work
 
@@ -39,13 +34,14 @@ Repository for all my studying and work on AI Engineering.
 - [Beginner/Intro Data Analysis Project](https://github.com/wdorsey/wdorsey-ai-engineering/tree/master/Tutorials/jupyter-python-beginner-tutorial) #Jupyter #Python #Pandas #Matplotlib
 
 ## Project Ideas
+- [Kaggle - Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 - Image-to-Factorio-Blueprint AI
-	- Long-term project. Will start after some more studying and learning of the basics.
-	- Train an AI to take an image as input and generate a factorio blueprint that recreates the image using buildable Factorio entities.
+	- Long-term project. Will start after some more studying.
+	- Train an AI to take any random image as input and generate a factorio blueprint that recreates the image using buildable Factorio entities.
 		- Like ascii art, but using Factorio buildables as the "characters".
-	- I think the AI part will be rather generalized, all the Factorio stuff will be input/output adapters I'll have to write.
+	- I think the AI part will be rather smallish. It won't know about Factorio, all that stuff will be input/output scripts/adapters I'll have to write.
 		- Input: Tokenized Factorio assets.
-			- Will need to write code to compile the assets and generate the final tokens. 
+			- Will need to write code to compile the assets and generate the final token set. 
 			- Ideally it could optionally include entities from mods.
 			- The AI won't actually know what these tokens are, nor what the output means, so it'll likely be re-useable in other contexts.
 		- Output: Tokens w/ coordinates of where to place them in the image/blueprint.
