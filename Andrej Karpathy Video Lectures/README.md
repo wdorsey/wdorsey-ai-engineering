@@ -8,6 +8,12 @@
 -  [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 	-  [The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
+## Other Andrej Links
+
+- [micrograd](https://github.com/karpathy/micrograd)
+- [llm.c](https://github.com/karpathy/llm.c)
+- [personal website](https://karpathy.ai/)
+
 ## Follow-up Exercise to the Andrej Karpathy video *[The spelled-out intro to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0)*
 
 - [Completed Exercise](https://github.com/wdorsey/wdorsey-ai-engineering/blob/master/Andrej%20Karpathy%20Video%20Lectures/micrograd_exercises.ipynb)
